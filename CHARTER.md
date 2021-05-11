@@ -4,4 +4,4 @@
 - Identify top 10 open challenges in security for the RISC-V community to address
 - Propose security committees (Marketing or Technical) to tackle specific security topics
 - Recruit security talent to the RISC-V ecosystem (e.g., into committees)
-- Develop consensus around best security practices for IoT devices and embedded systems
+- Develop consensus around best security practices for all industry technology sectors
