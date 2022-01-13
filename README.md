@@ -5,13 +5,16 @@ This repository contains committee administrative materials, such as meeting sli
 ###  Charter
 The committee charter is outlined in the [charter document](CHARTER.md).
 
-### Organization
-The Security Horizon Committee (HC) closely coordinates its activities with other entities within RISC-C International, including:
-- Security Response SIG
-- Security Technologies SIG
-- Blockchain SIG
+### Organization (Updated jan 2022)
+The Security Horizon Committee (HC) closely coordinates its activities with other entities within RISC-V International (RVI) and actively coordinates design and specification work with the following Technical Groups (TGs) or Special Interest Groups (SIGs):
+- Security Incident Response Team (SIRT)
 - TEE TG
-- Crypto TG  
+- Crypto TG
+- IOPMP TG (forming)
+- Microarchitectural Side Channel leakage prevention SIG
+- Control Flow Integrity SIG
+- Blockchain SIG
+- Trusted Computing SIG
 
 ### Chairs
 Current committee chairs are:
